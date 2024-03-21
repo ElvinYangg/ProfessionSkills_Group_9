@@ -1,20 +1,21 @@
-# ProfessionSkills_Group_9
-# 六顶思考帽在结构化创新中的应用
-## 小组成员
+# Six Thinking Hats in Structured Innovation
+
+## Group Members
 - Group 9
   - Junjie Liang
   - Qichen Zhang
   - Yifan Yang
 
-## 目标受众
-- 对结构化创新感兴趣的学生和专业人士
+## Target Audience
+- Students and professionals interested in structured innovation and problem-solving techniques.
 
-## 项目概览
-本项目利用六顶思考帽方法展示如何从多个角度系统地分析和解决问题，特别适用于结构化创新的情境。
+## Project Overview
+This project demonstrates the application of the Six Thinking Hats method in structured innovation. We explore this through a case study of a local pizzeria facing a downturn in sales and customer retention, offering various strategies to enhance performance.
 
-## 海报亮点
-- **场景设置**：通过一个曾经受欢迎的本地披萨店的案例，我们探索了该店铺销售下降和客户保留率下降的问题，并提出了多种策略来恢复其业绩。
-- **六顶思考帽介绍**：介绍了由爱德华·德·博诺博士开发的心理训练模型——六顶思考帽，展示了如何通过从六个不同的角度思考同一个问题来找到最佳解决方案。每顶“帽子”代表当前思考的焦点，从信息收集（白帽）到情感反应（红帽），从谨慎判断（黑帽）到乐观看待（黄帽），再到创意思维（绿帽）和过程管理（蓝帽）。
+## Highlights of the Poster
+- **Scenario Setting**: We use the example of a once-popular local pizzeria that has noticed a decline in sales and customer retention. This scenario helps illustrate the practical application of the Six Thinking Hats method.
+- **Introduction to the Six Thinking Hats**: We introduce Dr. Edward DeBono’s mental training model, explaining how each "hat" represents a different focus in thinking. This approach emphasizes looking at a problem from six different perspectives to find the best solution.
 
-## 海报预览
+## Viewing the Poster
+To view our poster on the application of the Six Thinking Hats in structured innovation, please click the link below:
 [Group 9-Structured Innovation Poster](./Group 9-Structed innovation poster.pdf)
