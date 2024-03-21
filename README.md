@@ -17,4 +17,4 @@
 - **六顶思考帽介绍**：介绍了由爱德华·德·博诺博士开发的心理训练模型——六顶思考帽，展示了如何通过从六个不同的角度思考同一个问题来找到最佳解决方案。每顶“帽子”代表当前思考的焦点，从信息收集（白帽）到情感反应（红帽），从谨慎判断（黑帽）到乐观看待（黄帽），再到创意思维（绿帽）和过程管理（蓝帽）。
 
 ## 海报预览
-查看我们的海报：(./Group 9-Structed innovation poster.pdf)
+[Group 9-Structured Innovation Poster](./Group 9-Structed innovation poster.pdf)
