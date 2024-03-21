@@ -21,4 +21,6 @@ This project demonstrates the application of the Six Thinking Hats method in str
 ## Viewing the Poster
 To view our poster on the application of the Six Thinking Hats in structured innovation, please click the link below:
  [Group 9-Structured Innovation Poster](./Group%209-Structed%20innovation%20poster.pdf)
+ ![Structured Innovation Poster](./Structed%20innovation%20poster-9.png)
+
  
