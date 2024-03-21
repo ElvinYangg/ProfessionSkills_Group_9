@@ -7,7 +7,7 @@
   - Yifan Yang
     
 ## Introduction to the Six Thinking Hats
-- **Introduction to the Six Thinking Hats**: We introduce Dr. Edward DeBono’s mental training model, explaining how each "hat" represents a different focus in thinking. This approach emphasizes looking at a problem from six different perspectives to find the best solution.
+- **Introduction to the Six Thinking Hats**: Dr. Edward DeBono’s mental training model, explaining how each "hat" represents a different focus in thinking. This approach emphasizes looking at a problem from six different perspectives to find the best solution.
 
 ## Target Audience
 - Non-scientific audience management（Entrepreneur）
